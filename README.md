@@ -1,4 +1,4 @@
-# Basic Neural Networks  
+# My First Neural Networks  
 
 This notebook explores fundamental neural network architectures, focusing on MNIST classification. It includes:  
 
